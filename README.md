@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi all, I'm Vadym Brodetskyi aka VadosBRO 👋
 <!--
 **amazingz/amazingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
